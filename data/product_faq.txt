@@ -1,0 +1,20 @@
+
+SHOPEASE - CUSTOMER FAQ
+
+1. How can I track my order?
+Customers can track their orders using their order ID through the order tracking service.
+
+2. How long does delivery take?
+Standard delivery usually takes 3 to 5 business days.
+
+3. Can I cancel my order?
+Orders can be cancelled before they are shipped.
+
+4. How can I contact customer support?
+Customers can contact support through the customer support portal.
+
+5. What payment methods are supported?
+Customers can pay using UPI, debit cards, credit cards, and net banking.
+
+6. How can I check product availability?
+Customers can check availability on the product details page.
